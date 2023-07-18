@@ -33,7 +33,7 @@ const Nav = () => {
                                   href="#">Book Demo</Link>
                         </li>
                         <li className={styles.navbarItem}>
-                            <Link className={styles.navbarLink}
+                            <Link className={styles.sign}
                                   onClick={() => setOpenMenu(false)}
                                   href="#">Sign Up</Link>
                         </li>

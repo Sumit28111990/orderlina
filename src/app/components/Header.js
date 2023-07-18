@@ -8,7 +8,7 @@ const Header = () => {
             <div className={styles.navbar_brand}>
                 <Link className={styles.headerName} href="/">
                     <img src="/logo.png" alt="my-logo-image" className={` ${styles.LogoImages}`}/>
-            <h1 >Orderlina</h1> 
+            <h1 className={styles.navbar_heading}>Orderlina</h1> 
                 </Link>
             </div>
             <Nav/>

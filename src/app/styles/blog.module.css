@@ -34,6 +34,9 @@
     width: 70rem;
     margin: auto;
 }
+.main-articles{
+    padding-top: 100px;
+}
 .article{
     background-color: #FFFFFF;
     z-index: 1;

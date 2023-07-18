@@ -17,7 +17,7 @@ function RestaurantImage() {
             <div className={styles['content-container']}>
                 <div className={styles['content-wrap']}>
                    
-              <div className={styles['main-article']}>
+              <div className={styles['main-articles']}>
                     <article className={styles['articles']}>
                         <div className={styles['entry-content-wrap']}>
                             <header className="entry-header post-title title-align-inherit title-tablet-align-inherit title-mobile-align-inherit">
@@ -216,8 +216,9 @@ function RestaurantImage() {
                         modules={[Pagination, Navigation]}
                         className={styles['my-swiper']}
                     >
+
                         <SwiperSlide className={styles['my-swipers']} >
-                            <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="https://orderlina.com/top-9-restaurant-branding-ideas-to-grow-customer-loyalty-and-revenues/">
+                            <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="">
                                 <div className="post-thumbnail-inner">
                                     <img src="https://orderlina.com/wp-content/uploads/2023/01/interior-of-a-restaurant-2022-11-11-07-09-49-utc-768x582.jpg"
                                         className="attachment-medium_large size-medium_large wp-post-image" alt="Top 9 Restaurant Branding Ideas to Grow Customer Loyalty and Revenues" decoding="async" loading="lazy" srcset="https://orderlina.com/wp-content/uploads/2023/01/interior-of-a-restaurant-2022-11-11-07-09-49-utc-768x582.jpg 768w, https://orderlina.com/wp-content/uploads/2023/01/interior-of-a-restaurant-2022-11-11-07-09-49-utc-300x227.jpg 300w, https://orderlina.com/wp-content/uploads/2023/01/interior-of-a-restaurant-2022-11-11-07-09-49-utc-1024x776.jpg 1024w, https://orderlina.com/wp-content/uploads/2023/01/interior-of-a-restaurant-2022-11-11-07-09-49-utc-1536x1164.jpg 1536w, https://orderlina.com/wp-content/uploads/2023/01/interior-of-a-restaurant-2022-11-11-07-09-49-utc.jpg 1600w" />
@@ -229,16 +230,16 @@ function RestaurantImage() {
                             ><span className={styles['slide-posted']}>
                                 <span className={styles['slide-p-label']}>By</span>
                                 <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="https://orderlina.com/author/dartwriter101gmail-com/">Suraj</a></span></span>
+                                <a className={styles['slide-p-vcards']}href="">Suraj</a></span></span>
                                 <span className={styles['slide-p-on']}><time className="entry-date published" datetime="2023-01-08T07:30:21-05:00">January 8, 2023</time></span></div>
                         </SwiperSlide>
                         <SwiperSlide className={styles['my-swipers']}>
-                            <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="https://orderlina.com/how-to-create-a-digital-menu-for-restaurants-or-hotels/">
+                            <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="">
                             <div className="post-thumbnail-inner">
                                 <img src="https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-768x271.jpg" className="attachment-medium_large size-medium_large wp-post-image" alt="How to Create a Digital Menu for Restaurants or Hotels (and Why!)" decoding="async" loading="lazy" srcset="https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-768x271.jpg 768w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-600x212.jpg 600w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-300x106.jpg 300w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-1024x362.jpg 1024w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-1536x542.jpg 1536w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min.jpg 1920w" />
                             </div>
                         </a>
-                            <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="https://orderlina.com/how-to-create-a-digital-menu-for-restaurants-or-hotels/" rel="bookmark">How to Create a Digital Menu for Restaurants or Hotels (and Why!)</a></h3>
+                            <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="" rel="bookmark">How to Create a Digital Menu for Restaurants or Hotels (and Why!)</a></h3>
                             <div className={styles['slide-p']}>
                                 <span className={styles['slide-posted']}>
                                 <span className={styles['slide-p-label']}>By</span>
@@ -249,57 +250,57 @@ function RestaurantImage() {
                             </div>
                         </SwiperSlide>
                         <SwiperSlide className={styles['my-swipers']}>
-                            <h3 className={styles['slide-title']}><a className={styles['slide-h']}href="https://orderlina.com/a-qr-menu-for-restaurants-is-contactless-not-hospitality-less/" rel="bookmark">Do QR Codes in Restaurants Make the Menu Contactless, But The Service “Hospitality-Less?”</a></h3>
+                            <h3 className={styles['slide-title']}><a className={styles['slide-h']}href="" rel="bookmark">Do QR Codes in Restaurants Make the Menu Contactless, But The Service “Hospitality-Less?”</a></h3>
                         <div className={styles['slide-p']}>
                                 <span className={styles['slide-posted']}>
                                 <span className={styles['slide-p-label']}>By</span>
                                 <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="https://orderlina.com/author/rohan/">rohan</a></span></span>
+                                <a className={styles['slide-p-vcards']}href="">rohan</a></span></span>
                                 <span className={styles['slide-p-on']}>
                                     <time className="entry-date published" datetime="2021-02-11T08:14:19-05:00">February 11, 2021</time></span>
                             </div>
                         </SwiperSlide>
                         <SwiperSlide className={styles['my-swipers']}>
-                            <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="https://orderlina.com/next-step-in-restaurant-takeaway-delivery-fast-food-virtual-restaurants-are-the-latest-trend-for-2023/">
+                            <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="">
                             <div className="post-thumbnail-inner">
                                 <img src="https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-768x513.jpg" className="attachment-medium_large size-medium_large wp-post-image" alt="Next Step in Restaurant Takeaway &amp; Delivery, Fast Food Virtual Restaurants Are the Latest Trend for 2023" decoding="async" loading="lazy" srcset="https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-768x513.jpg 768w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-300x200.jpg 300w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-1024x684.jpg 1024w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-1536x1025.jpg 1536w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min.jpg 1561w" />
                             </div>
                         </a>
-                            <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="https://orderlina.com/next-step-in-restaurant-takeaway-delivery-fast-food-virtual-restaurants-are-the-latest-trend-for-2023/" rel="bookmark">Next Step in Restaurant Takeaway &amp; Delivery, Fast Food Virtual Restaurants Are the Latest Trend for 2023</a></h3>
+                            <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="">Next Step in Restaurant Takeaway &amp; Delivery, Fast Food Virtual Restaurants Are the Latest Trend for 2023</a></h3>
                             <div className={styles['slide-p']}>
                                 <span className={styles['slide-posted']}>
                                 <span className={styles['slide-p-label']}>By</span>
                                 <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="https://orderlina.com/author/rohan/">Suraj</a></span></span>
+                                <a className={styles['slide-p-vcards']}href="">Suraj</a></span></span>
                                 <span className={styles['slide-p-on']}>
                                     <time className="entry-date published" datetime="2023-01-06T15:33:48-05:00">January 6, 2023</time></span>
                             </div>
 
                         </SwiperSlide>
                         <SwiperSlide className={styles['my-swipers']}>
-                            <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="https://orderlina.com/a-qr-code-sign-in-for-restaurants-should-also-include-ordering/" rel="bookmark">In 2023, QR Code Sign-In is Not Enough. Restaurants Must Offer QR Code Ordering Too</a></h3>
+                            <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="" rel="bookmark">In 2023, QR Code Sign-In is Not Enough. Restaurants Must Offer QR Code Ordering Too</a></h3>
                         <div className={styles['slide-p']}>
                                 <span className={styles['slide-posted']}>
                                 <span className={styles['slide-p-label']}>By</span>
                                 <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="https://orderlina.com/author/rohan/">rohan</a></span></span>
+                                <a className={styles['slide-p-vcards']}href="">rohan</a></span></span>
                                 <span className={styles['slide-p-on']}>
                                     <time className="entry-date published" datetime="2020-08-13T08:49:11-04:00">August 13, 2020</time>
                                 </span>
                             </div>
                         </SwiperSlide>
                         <SwiperSlide className={styles['my-swipers']}>
-                            <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="https://orderlina.com/best-qr-menu-for-restaurants-and-hotels/">
+                            <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="">
                             <div className="post-thumbnail-inner">
                                 <img width="768" height="576" src="https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min.jpg" className="attachment-medium_large size-medium_large wp-post-image" alt="8 Best QR Menus for Restaurants in 2023" decoding="async" loading="lazy" srcset="https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min.jpg 768w, https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min-600x450.jpg 600w, https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min-300x225.jpg 300w" />
                             </div>
                         </a>
-                            <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="https://orderlina.com/best-qr-menu-for-restaurants-and-hotels/" rel="bookmark">8 Best QR Menus for Restaurants in 2023</a></h3>
+                            <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="" rel="bookmark">8 Best QR Menus for Restaurants in 2023</a></h3>
                             <div className={styles['slide-p']}>
                                 <span className={styles['slide-posted']}>
                                 <span className={styles['slide-p-label']}>By</span>
                                 <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="https://orderlina.com/author/rohan/">rohan</a></span></span>
+                                <a className={styles['slide-p-vcards']}href="">rohan</a></span></span>
                                 <span className={styles['slide-p-on']}>
                                     <time className="entry-date published" datetime="2020-01-27T02:18:32-05:00">January 27, 2020</time>
                                 </span>
