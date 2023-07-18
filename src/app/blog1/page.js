@@ -38,7 +38,7 @@ function RestaurantImage() {
                                 <div className={styles['by-content-text']}>
                                     <span className="posted-by">
                                         <span className="meta-label">By</span>
-                                        <span className="author vcard"><a className="url fn n" href="https://orderlina.com/author/shaun/">Shaun.</a></span>
+                                        <span className="author vcard"><a className={styles['textfn']} href="https://orderlina.com/author/shaun/">Shaun.</a></span>
                                     </span>
                                     <span className="posted-on">
                                         <time className="entry-date published" dateTime="2023-01-08T07:30:21-05:00">
@@ -276,8 +276,8 @@ function RestaurantImage() {
                             </figure>
                             <p className={styles['text-paragraph']}>To sum up, QR code menus are a convenient solution for restaurants to offer their customers. They provide a cost-effective and versatile option for presenting menus that is accessible and engaging for customers. By following the step-by-step guide, restaurants can create a visually appealing and user-friendly QR code menu that both enhances the dining experience and as well as increase profits for your restaurant.</p>
                             <span class="tags-links">
-                              
-                                <a href="https://orderlina.com/tag/qr-code-menu/" title="QR Code Menu" class="tag-link tag-item-qr-code-menu" rel="tag"><span class="tag-hash">#</span>QR Code Menu</a>	</span>
+
+                                <a href="https://orderlina.com/tag/qr-code-menu/" title="QR Code Menu" className={styles['btn-submits']} rel="tag"><span className="tag-hash">#</span>QR Code Menu</a>	</span>
                         </div>
 
                     </article>
@@ -308,10 +308,12 @@ function RestaurantImage() {
                                     Next Step in Restaurant Takeaway & Delivery, Fast Food Virtual Restaurants Are the Latest Trend for 2023
                                 </a>
                             </div>
-                          
+
                         </div>
                     </nav>
-                    
+
+
+                    <h2 className={styles['my-posts']}>Similar Posts</h2>
                     <Swiper
                         slidesPerView={3}
                         spaceBetween={30}
@@ -413,7 +415,7 @@ function RestaurantImage() {
                             </div>
                         </SwiperSlide>
                     </Swiper>
-                
+
 
                     <div id="comments" className={styles['comments-area']}>
                         <div id="respond" className="comment-respond">
@@ -546,7 +548,7 @@ function RestaurantImage() {
                     </div>
                 </div>
             </div>
-            
+
         </div>
 
     );

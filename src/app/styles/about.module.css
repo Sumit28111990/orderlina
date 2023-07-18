@@ -198,14 +198,15 @@
     text-align: initial;
     }
     .submitbtn {
-    margin: 23px;
-    width: 80%;
-    background-color: black;
-    color: white;
-    font-weight: bold;
-    line-height: 2.6;
-    font-size: 18px;
-    text-align: center;
+        margin: 23px;
+        width: 80%;
+        background-color: #000;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: 1px solid #000;
+        line-height: 2.6;
+        font-size: 18px;
+        text-align: center;
     }
     .taxtpara {
     line-height: 2.6;

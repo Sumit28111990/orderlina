@@ -16,138 +16,138 @@ function RestaurantImage() {
         <div className={styles['content-area']}>
             <div className={styles['content-container']}>
                 <div className={styles['content-wrap']}>
-                   
-              <div className={styles['main-articles']}>
-                    <article className={styles['articles']}>
-                        <div className={styles['entry-content-wrap']}>
-                            <header className="entry-header post-title title-align-inherit title-tablet-align-inherit title-mobile-align-inherit">
-                                <div className={styles['entry-taxonomies']}>
-                                    <span className="category-links term-links category-style-normal">
-                                        <a href="https://orderlina.com/category/marketing/" rel="tag">UNCATEGORIZED</a>
-                                    </span>
-                                </div>
-                                <h1 className={styles['entry-title']}>Top 6 Integrations for Restaurant POS Systems</h1>
-                                <div className={styles['entry-meta']}>
-                                    <span className="posted-by">
-                                        <span className={styles['meta-label']}>By</span>
-                                        <span className={styles['author-vcard']}><a className="url fn n" href="https://orderlina.com/author/dartwriter101gmail-com/">Suraj</a></span>
-                                    </span>
-                                    <span className="posted-on">
-                                        <time className="entry-date published" dateTime="2023-01-08T07:30:21-05:00">
-                                            October 29, 2022</time>
-                                    </span>
-                                </div>
-                            </header>
-                            <div className='entry-content single-content'>
-                                <div className={styles['wp-block-image']}>
-                                    <img className={styles['block-img']}
-                                        src="https://orderlina.com/wp-content/uploads/2022/10/3-1-1024x395.jpeg"
-                                        alt="restaurant brand vision mission core values" />
-                                </div>
-                                <p>Every successful restaurant owner swears by their restaurant POS systems. After all, a worthy POS system allows them to optimize their business operations, costs, and customer services, ultimately making them more competitive in their industry.</p>
 
-                                <p>However, restaurant POS systems are only as good as their most recent update. You cannot expect to use outdated technology to help you increase your revenues in a rapidly changing economy. But restauranteurs cannot change their POS system every time a new POS system launches an upgrade. That is why POS integrations exist.</p>
-
-                                <p>2018 witnessed GrubHub integrating with 5 POS systems, and Uber Eats buying orderTalk for its POS integration capabilities. Come 2020 and restaurant businesses were struggling to survive the pandemic restrictions. Fortunately, online food delivery witnessed an uptick and helped ease the existential crisis facing most restaurants. Very soon, restaurants that understood their customers’ evolving needs adapted to them and became more popular and profitable. And POS integrations helped them adapt to these challenges.
-
-                                </p>
-
-
-                                <h2 class="wp-block-heading">What Is a POS Integration?</h2>
-
-                                <p>Integrations for restaurant POS systems have become a huge trend in the industry. You are ideally expanding the functionalities of your POS system to include inventory management, accounting capabilities, online ordering features, and more. When more systems can interact with each other, your business can run more smoothly.</p>
-
-                                <p>By the end of the day, you get a well-rounded picture of your business, from your staff to operations to customer management, with a restaurant management system. The more your POS system can integrate with other software, the more efficient your restaurant business can become.</p>
-
-
-                                <h2 class="wp-block-heading">Which Are the Highly Recommended Restaurant POS Integrations You Should Get?</h2>
-                                <figure className={styles['wp-block-image']}>
-                                    <img className={styles['block-img']}
-                                        src="https://orderlina.com/wp-content/uploads/2022/10/333333333.jpeg"
-                                        alt="restaurant menu as a marketing channel"
-
-                                    />
-                                </figure>
-
-                                <p>If you are a restaurant owner looking to improve your customer satisfaction, business operations, and bottom line, here are the top integrations to help you create the best restaurant POS system for your restaurant.</p>
-                                <h2 class="wp-block-heading">Finding New Customers</h2>
-
-                                <figure className={styles['wp-block-image']}>
-                                    <img className={styles['block-img']}
-                                        src="https://orderlina.com/wp-content/uploads/2023/01/Picture1-min.jpg"
-                                        alt="Orderlina commission-free delivery benefits"
-                                    />
-                                </figure>
-                                <p>Apps like Yelp and Tripadvisor receive massive footfall on their websites. Customers who are looking for new restaurants, new dishes, new twists on familiar dishes, fusion delicacies, and new cuisine experience frequent these websites. You can siphon off those customers to your restaurant by ensuring that your restaurant shows up on these food/restaurant discovery apps.</p>
-
-                                <p>When you advertise these apps on your business premises or website and encourage your consumers to leave reviews on these apps, you are pumping up the online presence of your business. OpenTable and Yelp Ads integrate into most POS systems, making it easy for you to fuel online reviews and web traffic.</p>
-
-
-                                <h2 class="wp-block-heading">Click & Order</h2>
-                                <p>When people could not visit restaurants during the pandemic, online ordering introduced a semblance of normalcy into their lives. You cannot afford to ignore online orders in an increasingly digital world. It provides next-level convenience to your customers.</p>
-                                <p>Online ordering apps have become almost an essential POS integration today. POS integrations like Orderlina allow patrons to scan QR codes for ordering and making payments. In fact, Orderlina has carved a place for itself among the most popular POS integrations in the market.</p>
-                                <p>Orderlina offers all kinds of menus, from view-only to like-only to completely interactive. It supports drive-ins, takeaways, curbside ordering, and home-delivery orders. For all these features, there is no commission to be paid, only a fixed monthly software fee. Restaurants can use a custom domain, branding, and menu setup. The Orderlina POS integration allows restaurants to manage their business, present their menus, and deliver their food in ways that best fit their business.</p>
-
-
-                                <h2 class="wp-block-heading">Reserving Tables</h2>
-                                <p>Long lines around the block are a dream of every ambitious restauranteur. However, they are also a sign of something more problematic: that you either need capacity expansion or better management of your reservations. For restaurants that keep busy, the right POS integration can help them manage their tables and reservations more efficiently.</p>
-                                <p>Table management apps will allow customers to reserve, edit, and cancel tables at your restaurant. The best part is that none of it requires your staff’s intervention. They also help keep the kitchens working smoothly, manage orders efficiently, and enhance guest satisfaction.</p>
-                                <h2 class="wp-block-heading">Incentivizing Regulars
-                                </h2>
-                                <p>Integrate a loyalty app into your restaurant POS system. As your loyal customers accrue points and receive attractive discounts, they will eat more at your restaurant. Add to it the app-centered lifestyles of most youngsters, and you’ve got yourself a winning tech combo. Youngsters are always looking for a good deal, and you can incentivize them to be loyal and repeat customers. As they say, “Catch ‘em young!”</p>
-                                <p>You can also customize the app to push your lesser-known items. As your inventory keeps moving, your business will become more profitable. All because of the well-timed promotions run by your loyalty app integration.</p>
-
-                                <p>You can also customize the app to push your lesser-known items. As your inventory keeps moving, your business will become more profitable. All because of the well-timed promotions run by your loyalty app integration.</p>
-
-                                <h2 class="wp-block-heading">Manage Your Staff Better
-                                </h2>
-                                <div className={styles['wp-block-image']}>
-                                    <figure className="aligncenter size-large">
-                                        <img className={styles['block-img']}
-                                            src="https://orderlina.com/wp-content/uploads/2022/10/POS_Image-4-1024x654.jpg"
-                                            alt="multi channel marketing"
-                                        />
-                                    </figure>
-                                </div>
-
-                                <p>Employee-facing POS integrations can help your restaurant prevent potential problems with scheduling, payroll management, employee benefits, and more. The restaurant industry provides a lot of entry-level jobs to freshers. So, it suffers from a high degree of attrition. When you integrate your POS with staff management software, you are freeing up your time and mind from a lot of stress. There are many staff scheduling POS integrations like 7shifts that can help you stay ahead of the attrition rate and keep your business running as usual.</p>
-
-
-                                <h2 class="wp-block-heading">Keep the Inventory Moving</h2>
-                                <p>Restaurants deal with a lot of fresh inventory that must be moved continuously. Even a little wastage of food routinely can lead to huge losses annually. Bad service that forces you to frequently comp food and drinks is a money sink too. You can integrate an add-on to your POS to help you keep track of inventory and reduce free comps.
-
-                                </p>
-                                <p>When you can keep tabs on operations, you will be better placed to edit the menu, make changes to service staff, train them better, or take other crucial steps. This will boost your employee morale as guests stay happy, ultimately making your restaurant more profitable.</p>
-
-
-                                <h2 class="wp-block-heading">How to Choose the Integrations Ideal for Your Restaurant POS System?</h2>
-                                <p>You can realize your business’s true potential by adding POS integrations that align with your business expansion goals. A good place to start expanding your POS capabilities would be to analyze your unique needs. Use customer feedback, staff members’ experience, and your observations from managing the business to identify what other capabilities would help your business grow. Then, you can choose the right POS integration for your restaurant.</p>
-                                <p>You can add any number of integrations to your existing POS system. Talk to your POS service provider to understand the integrations better.</p>
-
-                                <h2 class="wp-block-heading">What’s Great About POS Integrations?
-                                </h2>
-                                <p>Every integration for your restaurant POS system should automate a tedious manual task and provide accurate data on how to improve your services. When these different integrations share data with your POS, you empower your employees to make your customers happier and your business more competitive. Just ensure that you research the multiple integrations available in the market first. This will allow you to ensure that all software solutions work in unison to make your business successful.</p>
-
-                                <footer className="entry-footer">
-                                    <div className={styles['entry-tags']}>
-                                        <span className={styles['tags-links']}>
-                                        
-                                            <a href="https://orderlina.com/tag/best-restaurant-pos-system/" title="best restaurant POS system" className={styles['tags-link']} rel="tag">
-                                                <span className="tag-hash">#</span>best restaurant POS system</a>
-                                            <a href="https://orderlina.com/tag/restaurant-management-system/" title="restaurant management system" className={styles['tags-link']} rel="tag">
-                                                <span className="tag-hash">#</span>restaurant management system</a>
-                                            <a href="https://orderlina.com/tag/restaurant-pos-systems/" title="restaurant POS systems" className={styles['tags-link']} rel="tag">
-                                                <span className="tag-hash">#</span>restaurant POS systems</a>
+                    <div className={styles['main-articles']}>
+                        <article className={styles['articles']}>
+                            <div className={styles['entry-content-wrap']}>
+                                <header className="entry-header post-title title-align-inherit title-tablet-align-inherit title-mobile-align-inherit">
+                                    <div className={styles['entry-taxonomies']}>
+                                        <span className="category-links term-links category-style-normal">
+                                            <a href="https://orderlina.com/category/marketing/" rel="tag">UNCATEGORIZED</a>
                                         </span>
                                     </div>
-                                </footer>
+                                    <h1 className={styles['entry-title']}>Top 6 Integrations for Restaurant POS Systems</h1>
+                                    <div className={styles['entry-meta']}>
+                                        <span className="posted-by">
+                                            <span className={styles['meta-label']}>By</span>
+                                            <span className={styles['author-vcard']}><a className="url fn n" href="https://orderlina.com/author/dartwriter101gmail-com/">Suraj</a></span>
+                                        </span>
+                                        <span className="posted-on">
+                                            <time className="entry-date published" dateTime="2023-01-08T07:30:21-05:00">
+                                                October 29, 2022</time>
+                                        </span>
+                                    </div>
+                                </header>
+                                <div className='entry-content single-content'>
+                                    <div className={styles['wp-block-image']}>
+                                        <img className={styles['block-img']}
+                                            src="https://orderlina.com/wp-content/uploads/2022/10/3-1-1024x395.jpeg"
+                                            alt="restaurant brand vision mission core values" />
+                                    </div>
+                                    <p>Every successful restaurant owner swears by their restaurant POS systems. After all, a worthy POS system allows them to optimize their business operations, costs, and customer services, ultimately making them more competitive in their industry.</p>
 
+                                    <p>However, restaurant POS systems are only as good as their most recent update. You cannot expect to use outdated technology to help you increase your revenues in a rapidly changing economy. But restauranteurs cannot change their POS system every time a new POS system launches an upgrade. That is why POS integrations exist.</p>
+
+                                    <p>2018 witnessed GrubHub integrating with 5 POS systems, and Uber Eats buying orderTalk for its POS integration capabilities. Come 2020 and restaurant businesses were struggling to survive the pandemic restrictions. Fortunately, online food delivery witnessed an uptick and helped ease the existential crisis facing most restaurants. Very soon, restaurants that understood their customers’ evolving needs adapted to them and became more popular and profitable. And POS integrations helped them adapt to these challenges.
+
+                                    </p>
+
+
+                                    <h2 class="wp-block-heading">What Is a POS Integration?</h2>
+
+                                    <p>Integrations for restaurant POS systems have become a huge trend in the industry. You are ideally expanding the functionalities of your POS system to include inventory management, accounting capabilities, online ordering features, and more. When more systems can interact with each other, your business can run more smoothly.</p>
+
+                                    <p>By the end of the day, you get a well-rounded picture of your business, from your staff to operations to customer management, with a restaurant management system. The more your POS system can integrate with other software, the more efficient your restaurant business can become.</p>
+
+
+                                    <h2 class="wp-block-heading">Which Are the Highly Recommended Restaurant POS Integrations You Should Get?</h2>
+                                    <figure className={styles['wp-block-image']}>
+                                        <img className={styles['block-img']}
+                                            src="https://orderlina.com/wp-content/uploads/2022/10/333333333.jpeg"
+                                            alt="restaurant menu as a marketing channel"
+
+                                        />
+                                    </figure>
+
+                                    <p>If you are a restaurant owner looking to improve your customer satisfaction, business operations, and bottom line, here are the top integrations to help you create the best restaurant POS system for your restaurant.</p>
+                                    <h2 class="wp-block-heading">Finding New Customers</h2>
+
+                                    <figure className={styles['wp-block-image']}>
+                                        <img className={styles['block-img']}
+                                            src="https://orderlina.com/wp-content/uploads/2023/01/Picture1-min.jpg"
+                                            alt="Orderlina commission-free delivery benefits"
+                                        />
+                                    </figure>
+                                    <p>Apps like Yelp and Tripadvisor receive massive footfall on their websites. Customers who are looking for new restaurants, new dishes, new twists on familiar dishes, fusion delicacies, and new cuisine experience frequent these websites. You can siphon off those customers to your restaurant by ensuring that your restaurant shows up on these food/restaurant discovery apps.</p>
+
+                                    <p>When you advertise these apps on your business premises or website and encourage your consumers to leave reviews on these apps, you are pumping up the online presence of your business. OpenTable and Yelp Ads integrate into most POS systems, making it easy for you to fuel online reviews and web traffic.</p>
+
+
+                                    <h2 class="wp-block-heading">Click & Order</h2>
+                                    <p>When people could not visit restaurants during the pandemic, online ordering introduced a semblance of normalcy into their lives. You cannot afford to ignore online orders in an increasingly digital world. It provides next-level convenience to your customers.</p>
+                                    <p>Online ordering apps have become almost an essential POS integration today. POS integrations like Orderlina allow patrons to scan QR codes for ordering and making payments. In fact, Orderlina has carved a place for itself among the most popular POS integrations in the market.</p>
+                                    <p>Orderlina offers all kinds of menus, from view-only to like-only to completely interactive. It supports drive-ins, takeaways, curbside ordering, and home-delivery orders. For all these features, there is no commission to be paid, only a fixed monthly software fee. Restaurants can use a custom domain, branding, and menu setup. The Orderlina POS integration allows restaurants to manage their business, present their menus, and deliver their food in ways that best fit their business.</p>
+
+
+                                    <h2 class="wp-block-heading">Reserving Tables</h2>
+                                    <p>Long lines around the block are a dream of every ambitious restauranteur. However, they are also a sign of something more problematic: that you either need capacity expansion or better management of your reservations. For restaurants that keep busy, the right POS integration can help them manage their tables and reservations more efficiently.</p>
+                                    <p>Table management apps will allow customers to reserve, edit, and cancel tables at your restaurant. The best part is that none of it requires your staff’s intervention. They also help keep the kitchens working smoothly, manage orders efficiently, and enhance guest satisfaction.</p>
+                                    <h2 class="wp-block-heading">Incentivizing Regulars
+                                    </h2>
+                                    <p>Integrate a loyalty app into your restaurant POS system. As your loyal customers accrue points and receive attractive discounts, they will eat more at your restaurant. Add to it the app-centered lifestyles of most youngsters, and you’ve got yourself a winning tech combo. Youngsters are always looking for a good deal, and you can incentivize them to be loyal and repeat customers. As they say, “Catch ‘em young!”</p>
+                                    <p>You can also customize the app to push your lesser-known items. As your inventory keeps moving, your business will become more profitable. All because of the well-timed promotions run by your loyalty app integration.</p>
+
+                                    <p>You can also customize the app to push your lesser-known items. As your inventory keeps moving, your business will become more profitable. All because of the well-timed promotions run by your loyalty app integration.</p>
+
+                                    <h2 class="wp-block-heading">Manage Your Staff Better
+                                    </h2>
+                                    <div className={styles['wp-block-image']}>
+                                        <figure className="aligncenter size-large">
+                                            <img className={styles['block-img']}
+                                                src="https://orderlina.com/wp-content/uploads/2022/10/POS_Image-4-1024x654.jpg"
+                                                alt="multi channel marketing"
+                                            />
+                                        </figure>
+                                    </div>
+
+                                    <p>Employee-facing POS integrations can help your restaurant prevent potential problems with scheduling, payroll management, employee benefits, and more. The restaurant industry provides a lot of entry-level jobs to freshers. So, it suffers from a high degree of attrition. When you integrate your POS with staff management software, you are freeing up your time and mind from a lot of stress. There are many staff scheduling POS integrations like 7shifts that can help you stay ahead of the attrition rate and keep your business running as usual.</p>
+
+
+                                    <h2 class="wp-block-heading">Keep the Inventory Moving</h2>
+                                    <p>Restaurants deal with a lot of fresh inventory that must be moved continuously. Even a little wastage of food routinely can lead to huge losses annually. Bad service that forces you to frequently comp food and drinks is a money sink too. You can integrate an add-on to your POS to help you keep track of inventory and reduce free comps.
+
+                                    </p>
+                                    <p>When you can keep tabs on operations, you will be better placed to edit the menu, make changes to service staff, train them better, or take other crucial steps. This will boost your employee morale as guests stay happy, ultimately making your restaurant more profitable.</p>
+
+
+                                    <h2 class="wp-block-heading">How to Choose the Integrations Ideal for Your Restaurant POS System?</h2>
+                                    <p>You can realize your business’s true potential by adding POS integrations that align with your business expansion goals. A good place to start expanding your POS capabilities would be to analyze your unique needs. Use customer feedback, staff members’ experience, and your observations from managing the business to identify what other capabilities would help your business grow. Then, you can choose the right POS integration for your restaurant.</p>
+                                    <p>You can add any number of integrations to your existing POS system. Talk to your POS service provider to understand the integrations better.</p>
+
+                                    <h2 class="wp-block-heading">What’s Great About POS Integrations?
+                                    </h2>
+                                    <p>Every integration for your restaurant POS system should automate a tedious manual task and provide accurate data on how to improve your services. When these different integrations share data with your POS, you empower your employees to make your customers happier and your business more competitive. Just ensure that you research the multiple integrations available in the market first. This will allow you to ensure that all software solutions work in unison to make your business successful.</p>
+
+                                    <footer className="entry-footer">
+                                        <div className={styles['entry-tags']}>
+                                            <span className={styles['tags-links']}>
+
+                                                <a href="https://orderlina.com/tag/best-restaurant-pos-system/" title="best restaurant POS system" className={styles['tags-link']} rel="tag">
+                                                    <span className="tag-hash">#</span>best restaurant POS system</a>
+                                                <a href="https://orderlina.com/tag/restaurant-management-system/" title="restaurant management system" className={styles['tags-link']} rel="tag">
+                                                    <span className="tag-hash">#</span>restaurant management system</a>
+                                                <a href="https://orderlina.com/tag/restaurant-pos-systems/" title="restaurant POS systems" className={styles['tags-link']} rel="tag">
+                                                    <span className="tag-hash">#</span>restaurant POS systems</a>
+                                            </span>
+                                        </div>
+                                    </footer>
+
+
+                                </div>
 
                             </div>
 
-                        </div>
-
-                    </article>
+                        </article>
                     </div>
 
                     <nav className={styles['post-navigations']} aria-label="Posts">
@@ -228,50 +228,50 @@ function RestaurantImage() {
                             <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="https://orderlina.com/top-9-restaurant-branding-ideas-to-grow-customer-loyalty-and-revenues/" rel="bookmark">Top 9 Restaurant Branding Ideas to Grow Customer Loyalty and Revenues</a></h3>
                             <div className={styles['slide-p']}
                             ><span className={styles['slide-posted']}>
-                                <span className={styles['slide-p-label']}>By</span>
-                                <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="">Suraj</a></span></span>
+                                    <span className={styles['slide-p-label']}>By</span>
+                                    <span className={styles['slide-p-vcard']}>
+                                        <a className={styles['slide-p-vcards']} href="">Suraj</a></span></span>
                                 <span className={styles['slide-p-on']}><time className="entry-date published" datetime="2023-01-08T07:30:21-05:00">January 8, 2023</time></span></div>
                         </SwiperSlide>
                         <SwiperSlide className={styles['my-swipers']}>
                             <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="">
-                            <div className="post-thumbnail-inner">
-                                <img src="https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-768x271.jpg" className="attachment-medium_large size-medium_large wp-post-image" alt="How to Create a Digital Menu for Restaurants or Hotels (and Why!)" decoding="async" loading="lazy" srcset="https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-768x271.jpg 768w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-600x212.jpg 600w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-300x106.jpg 300w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-1024x362.jpg 1024w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-1536x542.jpg 1536w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min.jpg 1920w" />
-                            </div>
-                        </a>
+                                <div className="post-thumbnail-inner">
+                                    <img src="https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-768x271.jpg" className="attachment-medium_large size-medium_large wp-post-image" alt="How to Create a Digital Menu for Restaurants or Hotels (and Why!)" decoding="async" loading="lazy" srcset="https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-768x271.jpg 768w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-600x212.jpg 600w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-300x106.jpg 300w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-1024x362.jpg 1024w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min-1536x542.jpg 1536w, https://orderlina.com/wp-content/uploads/2019/09/iphone-6-mockup-of-a-woman-holding-an-iphone-by-the-pool-a3211-1-min.jpg 1920w" />
+                                </div>
+                            </a>
                             <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="" rel="bookmark">How to Create a Digital Menu for Restaurants or Hotels (and Why!)</a></h3>
                             <div className={styles['slide-p']}>
                                 <span className={styles['slide-posted']}>
-                                <span className={styles['slide-p-label']}>By</span>
-                                <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="https://orderlina.com/author/rohan/">rohan</a></span></span>
+                                    <span className={styles['slide-p-label']}>By</span>
+                                    <span className={styles['slide-p-vcard']}>
+                                        <a className={styles['slide-p-vcards']} href="https://orderlina.com/author/rohan/">rohan</a></span></span>
                                 <span className={styles['slide-p-on']}>
-                                <time className="entry-date published" datetime="2019-09-10T07:53:42-04:00">September 10, 2019</time></span>
+                                    <time className="entry-date published" datetime="2019-09-10T07:53:42-04:00">September 10, 2019</time></span>
                             </div>
                         </SwiperSlide>
                         <SwiperSlide className={styles['my-swipers']}>
-                            <h3 className={styles['slide-title']}><a className={styles['slide-h']}href="" rel="bookmark">Do QR Codes in Restaurants Make the Menu Contactless, But The Service “Hospitality-Less?”</a></h3>
-                        <div className={styles['slide-p']}>
+                            <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="" rel="bookmark">Do QR Codes in Restaurants Make the Menu Contactless, But The Service “Hospitality-Less?”</a></h3>
+                            <div className={styles['slide-p']}>
                                 <span className={styles['slide-posted']}>
-                                <span className={styles['slide-p-label']}>By</span>
-                                <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="">rohan</a></span></span>
+                                    <span className={styles['slide-p-label']}>By</span>
+                                    <span className={styles['slide-p-vcard']}>
+                                        <a className={styles['slide-p-vcards']} href="">rohan</a></span></span>
                                 <span className={styles['slide-p-on']}>
                                     <time className="entry-date published" datetime="2021-02-11T08:14:19-05:00">February 11, 2021</time></span>
                             </div>
                         </SwiperSlide>
                         <SwiperSlide className={styles['my-swipers']}>
                             <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="">
-                            <div className="post-thumbnail-inner">
-                                <img src="https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-768x513.jpg" className="attachment-medium_large size-medium_large wp-post-image" alt="Next Step in Restaurant Takeaway &amp; Delivery, Fast Food Virtual Restaurants Are the Latest Trend for 2023" decoding="async" loading="lazy" srcset="https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-768x513.jpg 768w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-300x200.jpg 300w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-1024x684.jpg 1024w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-1536x1025.jpg 1536w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min.jpg 1561w" />
-                            </div>
-                        </a>
+                                <div className="post-thumbnail-inner">
+                                    <img src="https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-768x513.jpg" className="attachment-medium_large size-medium_large wp-post-image" alt="Next Step in Restaurant Takeaway &amp; Delivery, Fast Food Virtual Restaurants Are the Latest Trend for 2023" decoding="async" loading="lazy" srcset="https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-768x513.jpg 768w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-300x200.jpg 300w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-1024x684.jpg 1024w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min-1536x1025.jpg 1536w, https://orderlina.com/wp-content/uploads/2023/01/restaurant-chef-at-everyday-work-2021-08-26-20-16-05-utc-min.jpg 1561w" />
+                                </div>
+                            </a>
                             <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="">Next Step in Restaurant Takeaway &amp; Delivery, Fast Food Virtual Restaurants Are the Latest Trend for 2023</a></h3>
                             <div className={styles['slide-p']}>
                                 <span className={styles['slide-posted']}>
-                                <span className={styles['slide-p-label']}>By</span>
-                                <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="">Suraj</a></span></span>
+                                    <span className={styles['slide-p-label']}>By</span>
+                                    <span className={styles['slide-p-vcard']}>
+                                        <a className={styles['slide-p-vcards']} href="">Suraj</a></span></span>
                                 <span className={styles['slide-p-on']}>
                                     <time className="entry-date published" datetime="2023-01-06T15:33:48-05:00">January 6, 2023</time></span>
                             </div>
@@ -279,11 +279,11 @@ function RestaurantImage() {
                         </SwiperSlide>
                         <SwiperSlide className={styles['my-swipers']}>
                             <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="" rel="bookmark">In 2023, QR Code Sign-In is Not Enough. Restaurants Must Offer QR Code Ordering Too</a></h3>
-                        <div className={styles['slide-p']}>
+                            <div className={styles['slide-p']}>
                                 <span className={styles['slide-posted']}>
-                                <span className={styles['slide-p-label']}>By</span>
-                                <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="">rohan</a></span></span>
+                                    <span className={styles['slide-p-label']}>By</span>
+                                    <span className={styles['slide-p-vcard']}>
+                                        <a className={styles['slide-p-vcards']} href="">rohan</a></span></span>
                                 <span className={styles['slide-p-on']}>
                                     <time className="entry-date published" datetime="2020-08-13T08:49:11-04:00">August 13, 2020</time>
                                 </span>
@@ -291,16 +291,16 @@ function RestaurantImage() {
                         </SwiperSlide>
                         <SwiperSlide className={styles['my-swipers']}>
                             <a className="post-thumbnail kadence-thumbnail-ratio-2-3" href="">
-                            <div className="post-thumbnail-inner">
-                                <img width="768" height="576" src="https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min.jpg" className="attachment-medium_large size-medium_large wp-post-image" alt="8 Best QR Menus for Restaurants in 2023" decoding="async" loading="lazy" srcset="https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min.jpg 768w, https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min-600x450.jpg 600w, https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min-300x225.jpg 300w" />
-                            </div>
-                        </a>
+                                <div className="post-thumbnail-inner">
+                                    <img width="768" height="576" src="https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min.jpg" className="attachment-medium_large size-medium_large wp-post-image" alt="8 Best QR Menus for Restaurants in 2023" decoding="async" loading="lazy" srcset="https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min.jpg 768w, https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min-600x450.jpg 600w, https://orderlina.com/wp-content/uploads/2021/03/branding-mockup-featuring-a-napkin-at-a-restaurant-table-a6854-1-768x576-min-300x225.jpg 300w" />
+                                </div>
+                            </a>
                             <h3 className={styles['slide-title']}><a className={styles['slide-h']} href="" rel="bookmark">8 Best QR Menus for Restaurants in 2023</a></h3>
                             <div className={styles['slide-p']}>
                                 <span className={styles['slide-posted']}>
-                                <span className={styles['slide-p-label']}>By</span>
-                                <span className={styles['slide-p-vcard']}>
-                                <a className={styles['slide-p-vcards']}href="">rohan</a></span></span>
+                                    <span className={styles['slide-p-label']}>By</span>
+                                    <span className={styles['slide-p-vcard']}>
+                                        <a className={styles['slide-p-vcards']} href="">rohan</a></span></span>
                                 <span className={styles['slide-p-on']}>
                                     <time className="entry-date published" datetime="2020-01-27T02:18:32-05:00">January 27, 2020</time>
                                 </span>
